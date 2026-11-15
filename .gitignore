@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node (pour l'interface à venir)
+node_modules/
+dist/
+build/
+
+# Environnement et secrets
+.env
+.env.*
+!.env.example
+
+# Modèles et données locales (jamais versionnés)
+models/
+data/private/
+*.safetensors
+*.ckpt
+
+# Système et éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Base locale de Scenora
+*.db
