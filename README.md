@@ -33,7 +33,6 @@ Au lieu de préparer à la main des documents et des croquis séparés, le ciné
 
 **En une phrase :** les réalisateurs indépendants et les petites équipes de tournage préparent souvent leur découpage, leur shot list et leur storyboard à la main et sans dessinateur, faute de budget et de temps, ce qui entraîne des oublis de plans et des erreurs de continuité découverts sur le plateau ou au montage.
 
-Cette formulation reste une hypothèse de travail : les entretiens avec des réalisateurs tunisiens, prévus avant la demi-finale, la confirmeront ou la corrigeront.
 
 ### Ce que montrent les sources
 
